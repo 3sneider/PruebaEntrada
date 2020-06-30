@@ -1,0 +1,12 @@
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\bin\Debug\netstandard2.0\NexosTest.DAL.deps.json
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\bin\Debug\netstandard2.0\NexosTest.DAL.dll
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.AssemblyInfo.cs
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\bin\Debug\netstandard2.0\NexosTest.DAL.pdb
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\bin\Debug\netstandard2.0\NexosTest.Entities.dll
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\bin\Debug\netstandard2.0\NexosTest.Entities.pdb
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.csproj.CopyComplete
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.dll
+D:\Usuario\Desktop\Test\Proyecto\NexosTest\NexosTest.DAL\obj\Debug\netstandard2.0\NexosTest.DAL.pdb
